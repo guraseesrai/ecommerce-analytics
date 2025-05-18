@@ -82,5 +82,4 @@ This project demonstrates:
 
 ---
 
-## 📁 Repository Structure
 
